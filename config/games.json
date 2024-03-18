@@ -1,0 +1,17 @@
+[
+  {
+    "link": "projects/1/index.html",
+    "imgSrc": "img/IMG_1767.jpeg",
+    "title": "1"
+  },
+  {
+    "link": "projects/1v1space/index.html",
+    "imgSrc": "projects/1v1space/splash.png",
+    "title": "1v1.space"
+  },
+  {
+    "link": "projects/2048/index.html",
+    "imgSrc": "projects/2048/thumb.png",
+    "title": "2048"
+  }
+]
